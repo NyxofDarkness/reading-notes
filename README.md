@@ -14,3 +14,4 @@
 
 ## [Audrena's Profile](Audrena-Profile)
 
+![pinecone](https://media.istockphoto.com/photos/forrest-floor-pine-cone-single-object-closeup-picture-id1224087001?b=1&k=6&m=1224087001&s=170667a&w=0&h=iPJnvYGnFL4HoX-gTZEJyvUyVsI4n-pdaR6xTtIJjwY=)
