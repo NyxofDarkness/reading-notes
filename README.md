@@ -1,4 +1,6 @@
-# Growth Minds are Flexible Minds
+# Welcome to the Reading Room!
+
+## Growth Minds are Flexible Minds
 
 *Developing a growth mindset starts with dedication to failure. You must embrace the unknown, in order to study and learn from it. You must traverse across voids of thoughts, jumping across to understanding.  There will always be something new to learn, new paths to explore. A growth mindset is looking through the void and seeing possibility.*
 
