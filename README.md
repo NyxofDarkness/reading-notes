@@ -14,4 +14,3 @@
 
 ## [Audrena's Profile](Audrena-Profile)
 
-![Calm-Focus-Growth](https://imgur.com/a/8faKH5Z)
