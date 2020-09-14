@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NyxofDarkness/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NyxofDarkness/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Growth Minds are Flexible Minds
+*Developing a growth mindset starts with dedication to failure. You must embrace the unknown, in order to study and learn from it. You must traverse across voids of thoughts, jumping across to understanding.  There will always be something new to learn, new paths to explore. A growth mindset is looking through the void and seeing possibility.*
+## Growth Minds are Reminded Minds
+*How often do you find yourself starting some project, only to get overwhelmed, quitting before you truly understood the work? Here is a list of things I like to do to remind myself failure and unknowns are not my Forever.*
+> It’s not that I’m so smart, it’s just that I stay with problems longer. – Albert Einstein
+> No problem can withstand the assault of sustained thinking. – Voltaire
+> A challenge only becomes an obstacle when you bow to it. – Ray Davis
