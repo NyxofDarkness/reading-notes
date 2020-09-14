@@ -13,4 +13,5 @@
 > A challenge only becomes an obstacle when you bow to it. – Ray Davis
 
 ## [Audrena's Profile](Audrena-Profile)
-![Calm-Focus-Growth](https://imgur.com/r5VAEQa)
+
+![Calm-Focus-Growth](https://imgur.com/a/8faKH5Z)
