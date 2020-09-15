@@ -24,7 +24,7 @@
 CLASS|REVIEW PAGE
 -----|-----------
 Code 102|[Day One](102Day1.md)
-Code 102|[Day Two]()
+Code 102|[Day Two](102Day2.md)
 Code 102|[Day Three]()
 Code 102|[Day Four]()
 Code 102|[Day Five]()
