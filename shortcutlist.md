@@ -21,3 +21,8 @@ touch|make file
 ..|parent directory
 .|current directory
 -rf|permanent delete
+
+
+
+
+[<== Back](README.md)
