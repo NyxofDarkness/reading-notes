@@ -31,7 +31,7 @@ Summary: pages at the end of chapters colored blue.
  
 > HTML Describs the structure of a webpage. The Bones if you will. 
  
-<code>
+```
 <HTML>
 <BODY>
 <H1>This is the main heading.</H1>
@@ -40,7 +40,7 @@ Summary: pages at the end of chapters colored blue.
 <h2> another subheading</h2>
 </body>
 </html>
-</code>
+```
  
 > Each must have opening and closing tags!
  
