@@ -31,7 +31,7 @@ Code 102|[Day Four](102Day4.md)
 CODE 201|READING NOTES
 -----|-----------
 Code 201|[Class 01](class-01.md)
-Code 201|[Day 1](201Day1.md)
+Code 201|[Day 1](class-02.md)
 Code 201|[Day 2](201Day2.md)
 Code 201|[Day 3](201Day3.md)
 Code 201|[Day 4](201Day4.md)
