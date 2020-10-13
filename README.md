@@ -43,7 +43,7 @@ Code 201|[Day 9](201Day9.md)
 Code 201|[Day 10](class-10.md)
 Code 201|[Day 11](class-11.md)
 Code 201|[Day 12](class-12.md)
-Code 201|[Day 13](201Day13.md)
+Code 201|[Day 13](class-13.md)
 Code 201|[Day 14](201Day14.md)
 Code 201|[Day 15](201Day15.md)
 
