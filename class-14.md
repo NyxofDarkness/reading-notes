@@ -65,3 +65,22 @@ this is another example from above. The 404 is dancing!
 # Pure CSS Bounce Animation
 
 same same, wow the ball can bounce! These are great representations of what we can do with animations!
+
+
+# Reading 14B:
+
+What Google Learned From Its Quest to Build the Perfect Team
+
+> ‘We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘‘who’’ part of the equation didn’t seem to matter.’
+
+A successful engineer said:
+
+> ‘‘direct and straightforward, which creates a safe space for you to take risks.’’
+
+an unsucessful team engineer said:
+
+>  ‘‘team leader has poor emotional control.’’ He added: ‘‘He panics over small issues and keeps trying to grab control. I would hate to be driving with him being in the passenger seat, because he would keep trying to grab the steering wheel and crash the car.’’ That team, researchers presumed, did not perform well.
+
+Getting a team to open up with their personal troubles and then talking about work: 
+
+> They found it easier to speak honestly about the things that had been bothering them, their small frictions and everyday annoyances.
