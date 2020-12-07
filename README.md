@@ -68,5 +68,12 @@ Code 301|[Day 15](code301/class-15.md)
 
 CODE 401-Advanced Software Development|READING NOTES
 -----|-----------
+code401|[Day 1](code401/class-01.md)
+code401|[Day 2](code401/class-02.md)
+code401|[Day 3](code401/class-03.md)
+code401|[Day 4](code401/class-04.md)
+code401|[Day 5](code401/class-05.md)
+code401|[Day 6](code401/class-06.md)
+code401|[Day 7](code401/class-07.md)
 
 [<== Back](README.md)
