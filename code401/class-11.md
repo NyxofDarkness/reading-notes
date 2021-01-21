@@ -46,5 +46,23 @@ with open('winequality-red.csv', 'r') as f:
     wines = list(csv.reader(f, delimiter=';'))
 ```
 
+- print out the first 3 rows:
+
+`print(wines[:3])`
+
+The below code will:
+
+- Extract the last element from each row after the header row.
+- Convert each extracted element to a float.
+- Assign all the extracted elements to the list qualities.
+- Divide the sum of all the elements in qualities by the total number of elements in qualities to the get the mean.
+
+``` python
+qualities =
+[float(item[-1]) for item in wines[1:]]
+sum(qualities) / len(qualities)
+5.6360225140712945
+```
+
 Bookmark/Skim
 [x] Numpy Arrays done!
