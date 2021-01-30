@@ -79,6 +79,8 @@ code401|[Day 9](code401/class-09.md)
 code401|[Day 10](code401/class-10.md)
 code401|[Day 11](code401/class-11.md)
 code401|[Day 12](code401/class-12.md)
-
+code401|[Day 13](code401/class-13.md)
+code401|[Day 14](code401/class-14.md)
+code401|[Day 15](code401/class-15.md)
 
 [<== Back](README.md)
