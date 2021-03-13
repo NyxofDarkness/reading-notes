@@ -144,7 +144,11 @@ def renew_book_librarian(request, pk):
 [x] {{ form.renewal_date.help_text }}: The field help text.
 
 - This is similar to our previous forms and renders the fields using a table. Note also how again we declare the 
-```{% csrf_token %}```
+
+``` python
+{% csrf_token %}
+```
+
 to ensure that our forms are resistant to CSRF attacks.
 
 ``` python
