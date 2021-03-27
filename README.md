@@ -92,5 +92,6 @@ code401|[Day 23](code401/class-23.md)
 code401|[Day 24](code401/class-24.md)
 code401|[Day 25](code401/class-25.md)
 code401|[Day 26](code401/class-26.md)
+code401|[Day 27](code401/class-27.md)
 
 [<== Back](README.md)
