@@ -253,6 +253,50 @@ project/
 
 ## [SSH Tutorial](https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work)
 
+> SSH, or Secure Shell, is a remote administration protocol that allows users to control and modify their remote servers over the Internet.
+
+> For Mac and Linux users, head over to your terminal program and then follow the procedure below:
+
+> The SSH command consists of 3 distinct parts:
+
+``` python
+ssh {user}@{host}
+```
+
+> {user} represents the account you want to access
+
+> {host} refers to the computer you want to access. This can be an IP Address (e.g. 244.235.23.19) or a domain name (e.g. www.xyzdomain.com).
+
+> When you hit enter, you will be prompted to enter the password for the requested account. Once you’re done typing, hit enter once again. If your password is correct, you will be greeted with a remote terminal window
+
+> Symmetric encryption is a form of encryption where a secret key is used for both encryption and decryption of a message by both the client and the host.
+
+> Symmetrical encryption is often called shared key or shared secret encryption
+
+> Symmetric keys are used to encrypt the entire communication during a SSH Session.
+
+> The process of creating a symmetric key is carried out by a key exchange algorithm
+
+> asymmetrical encryption uses two separate keys for encryption and decryption.
+
+> public key and the private key. Together, both these keys form a public-private key pair.
+
+> public key, as the name suggest is openly distributed and shared with all parties
+
+> The private key must remain private i.e. for the connection to be secured, no third party must ever know it
+
+> One-way-hash functions differ from the above two forms of encryption in the sense that they are never meant to be decrypted. 
+
+> MAC, which is calculated using the symmetric key, packet sequence number, and the message contents.
+
+> The way SSH works is by making use of a client-server model to allow for authentication of two remote systems and encryption of the data that passes between them.
+
+> SH operates on TCP port 22 by default 
+
+> two parties use what is known as a Diffie-Hellman Key Exchange Algorithm
+
+> 
+
 ## Bookmark/skim
 
 -[x] [ White Noise](http://whitenoise.evans.io/en/stable/)
