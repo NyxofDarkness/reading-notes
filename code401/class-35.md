@@ -24,15 +24,15 @@
 
 ## Ethics in the workplace
 
-[The code I’m still ashamed of](Don't rest, knowing that technology moves quickly. We must refine and maintain skills to keep our work above par. Do better. Be better.)
+[The code I’m still ashamed of](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/)
 
-1.
-2.
-3.
-4.
-5.
+1. This is interesting. There are strict laws about advertising medications directly to consumers, and instead of questioning the institution that hired him, he went ahead with the project anyways.
+2. I don't think the anecdotes from his personal life, and how the drug affected women was relevant. Think of it this way, Canada says no advertising, so how would setting up quizzes to direct people to certain drug advertisments not be advertisings? That is a grey area. 
+3. Big red-flag is that the quiz almost always led to the drug.
+4. Just because something is technically legal, doesn't mean that it is ethically sound. 
+5. This line means a lot to me: We are often one of the last lines of defense against potentially dangerous and unethical practices
 
-> Key take-aways:
+> Key take-aways:  I respect him for leaving after finding the breached ethics, even though it seemed more personally and emotionally motivated. 
 
 [Project Dragonfly, Google’s censored search engine]()
 
