@@ -34,9 +34,9 @@
 
 > Key take-aways:  I respect him for leaving after finding the breached ethics, even though it seemed more personally and emotionally motivated. 
 
-[Project Dragonfly, Google’s censored search engine]()
+[Project Dragonfly, Google’s censored search engine](https://youtu.be/6Rn68PxJ2Ik)
 
-1.
+1. 
 2.
 3.
 4.
