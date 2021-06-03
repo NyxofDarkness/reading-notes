@@ -49,10 +49,3 @@ if x > 5:
 > using the else statement, you can instruct a program to execute a certain block of code only in the absence of exceptions.
 > everything in the finally clause will be executed. It does not matter if you encounter an exception somewhere in the try or else clauses
 
-## Additional Resources
-
-Read & Write Files in Python - Companion [bookmarked and done!]
-
-## Bookmark/Skim
-
-Reading and Writing Files in Python Quiz [done!]

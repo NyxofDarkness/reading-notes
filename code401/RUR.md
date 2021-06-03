@@ -1,4 +1,4 @@
-# Reading
+# Refactoring, Unit Tests, and Recursion, OH MY!
 
 ## In Tests We Trust - TDD with Python
 
@@ -31,18 +31,3 @@ The next step is to ask "what is needed to make this test pass?"
 > this phenomenon is named as recursion and the function containing recursion is called recursive function
 > If the memory is exhausted by these functions on the stack, it will cause a stack overflow error
 > recursive function is tail recursive when recursive call is the last thing executed by the function
-
-
-> Additional Resources
-
-Optional Python Modules and Packages Companion Video-watched and bookmarked!
-
-a video about 
-
-These have all been bookmarked!
-
-1. Google for Education: Python Lists
-2. Google for Education: Python Strings
-3. Python Modules and Packages
-4. Pytest Documentation
-5. PyTest Tutorial Up to section Running tests in parallel

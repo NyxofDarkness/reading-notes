@@ -68,8 +68,8 @@ Code 301|[Day 15](code301/class-15.md)
 |Advanced Software Development in Python |Link to Article|
 -----|-----------
 Big O|[My Why and The Big O, Simplified](code401/why.md)
-code401|[Refactoring, Unit Tests, and Recursion, OH MY!](code401/RUR.md)
-code401|[Day 3](code401/class-03.md)
+Recursion|[Refactoring, Unit Tests, and Recursion, OH MY!](code401/RUR.md)
+Files|[Read & Write Files in Python](code401/files_in_python.md)
 code401|[Day 4](code401/class-04.md)
 code401|[Day 5](code401/class-05.md)
 code401|[Day 6](code401/class-06.md)
