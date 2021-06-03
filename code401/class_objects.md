@@ -190,7 +190,3 @@ def reverse_lines(f):
 
 > This creates a directory called htmlcov. 
 > Open the index.html file in this directory using your browser, and you'll get a web-based report showing (in red) where your program still lacks coverage.
-
-## Bookmark/Skim
-
-> Pytest Fixtures [bookmarked]
