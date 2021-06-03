@@ -1,4 +1,4 @@
-# Class 01- Advanced Software Development in Python
+# Your why, and the Big O Notation
 
 ## Pain and Suffering
 
@@ -9,9 +9,9 @@ Everything takes time. I must remember to be patient.
 > Why are you doing this?
 To build a better life for my family, to help other people, and to meld art and tech into one glorious example of my soul.
 > Do you want what comes at the end of this journey?
-Yes. more than anything I want to grow my knowledge, participate and learn, and explore the farthest reaches I am able. 
+Yes. more than anything I want to grow my knowledge, participate and learn, and explore the farthest reaches I am able.
 > Are you doing this for you?
-yes. For my curiosity, for my need to know more, but also for my family who rely so heavily on me. 
+yes. For my curiosity, for my need to know more, but also for my family who rely so heavily on me.
 
 ## Beginners Guide to Big O
 
@@ -21,10 +21,7 @@ yes. For my curiosity, for my need to know more, but also for my family who rely
 > O(2N) denotes an algorithm whose growth doubles with each additon to the input data set.
 > O(log N). The iterative halving of data sets described in the binary search example produces a growth curve that peaks at the beginning and slowly flattens out as the size of the data sets increase... remember logarithums from stats class?
 
-## A friendly intro to the Big O Notation
-I do wish this was a video with captions! I have trouble hearing when I can't see the speaker to read along :(
-
-## Facts and Myths about P{ython names and values
+## Facts and Myths about Python names and values
 
 > Look up OPENedX
-> Bookmark this for reference. Nice breakdown of basic sytax. 
+> Bookmark this for reference. Nice breakdown of basic syntax.

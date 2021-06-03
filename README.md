@@ -65,10 +65,10 @@ Code 301|[Day 13](code301/class-13.md)
 Code 301|[Day 14](code301/class-14.md)
 Code 301|[Day 15](code301/class-15.md)
 
-CODE 401-Advanced Software Development|READING NOTES
+|Advanced Software Development in Python |Link to Article|
 -----|-----------
-code401|[Day 1](code401/class-01.md)
-code401|[Day 2](code401/class-02.md)
+Big O|[My Why and The Big O, Simplified](code401/why.md)
+code401|[Refactoring, Unit Tests, and Recursion, OH MY!](code401/RUR.md)
 code401|[Day 3](code401/class-03.md)
 code401|[Day 4](code401/class-04.md)
 code401|[Day 5](code401/class-05.md)
